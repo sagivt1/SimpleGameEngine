@@ -1,0 +1,5 @@
+# Cisual studio
+/.vs
+
+# Build output
+/build
